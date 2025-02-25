@@ -6,14 +6,14 @@
         {
           "effect": {
             "type": "tconstruct:place_block",
-            "block": "tconstruct:soul_glass_pane"
+            "block": "tconstruct:obsidian_pane"
           },
           "level": 1.0
         },
         {
           "effect": {
             "type": "tconstruct:place_block",
-            "block": "tconstruct:soul_glass"
+            "block": "minecraft:obsidian"
           },
           "level": 4.0
         }
@@ -23,7 +23,7 @@
   "entity_effects": [
     {
       "type": "tconstruct:damage",
-      "damage": 1.0,
+      "damage": 2.0,
       "damage_type": {
         "melee": "tconstruct:fluid_spike_melee",
         "ranged": "tconstruct:fluid_spike_ranged"
@@ -32,6 +32,6 @@
   ],
   "fluid": {
     "amount": 250,
-    "tag": "tconstruct:liquid_soul"
+    "tag": "tconstruct:molten_obsidian"
   }
 }

@@ -1,9 +1,6 @@
 {
   "block_effects": [
     {
-      "type": "tconstruct:break_block"
-    },
-    {
       "type": "tconstruct:place_block"
     }
   ],
@@ -11,16 +8,13 @@
     {
       "type": "tconstruct:mob_effect",
       "action": "add",
-      "effect": "minecraft:slowness",
+      "effect": "tconstruct:enderference",
       "level": 1,
-      "time": 100
-    },
-    {
-      "type": "tconstruct:teleport"
+      "time": 200
     }
   ],
   "fluid": {
     "amount": 50,
-    "tag": "tconstruct:ender_slime"
+    "tag": "forge:ender"
   }
 }

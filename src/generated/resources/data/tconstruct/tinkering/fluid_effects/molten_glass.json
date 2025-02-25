@@ -6,14 +6,14 @@
         {
           "effect": {
             "type": "tconstruct:place_block",
-            "block": "tconstruct:soul_glass_pane"
+            "block": "tconstruct:clear_glass_pane"
           },
           "level": 1.0
         },
         {
           "effect": {
             "type": "tconstruct:place_block",
-            "block": "tconstruct:soul_glass"
+            "block": "tconstruct:clear_glass"
           },
           "level": 4.0
         }
@@ -32,6 +32,6 @@
   ],
   "fluid": {
     "amount": 250,
-    "tag": "tconstruct:liquid_soul"
+    "tag": "tconstruct:molten_glass"
   }
 }

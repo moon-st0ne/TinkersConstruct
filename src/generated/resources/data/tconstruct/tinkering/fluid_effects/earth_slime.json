@@ -2,7 +2,7 @@
   "block_effects": [
     {
       "type": "tconstruct:move_block",
-      "push": true,
+      "push": false,
       "sound": "tconstruct:slime_sling"
     }
   ],
@@ -16,11 +16,11 @@
     },
     {
       "type": "tconstruct:push_entity",
-      "each_level": 1.0
+      "each_level": -1.0
     }
   ],
   "fluid": {
     "amount": 50,
-    "tag": "tconstruct:sky_slime"
+    "tag": "forge:slime"
   }
 }
