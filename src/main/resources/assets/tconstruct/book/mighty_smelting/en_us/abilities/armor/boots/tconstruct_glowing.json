@@ -5,9 +5,9 @@
       "text": "That's a bright idea."
     }
   ],
-  "tool_filter": "tconstruct:modifiable/interactable",
+  "tool_filter": "tconstruct:modifiable/armor/boots",
   "effects": [
-    "Interact to place glows",
+    "Places glows in dark places as you walk",
     "Placing glows consumes durability",
     "Single level",
     "Requires 1 ability slot"
