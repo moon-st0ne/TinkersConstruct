@@ -1,5 +1,5 @@
 {
-  "color": "FF3B2754",
+  "color": "FF7E6059",
   "fallbacks": [
     "rock"
   ],
@@ -11,9 +11,7 @@
       "tconstruct:plating_leggings",
       "tconstruct:plating_boots",
       "tconstruct:plating_shield",
-      "tconstruct:repair_kit",
-      "tconstruct:maille",
-      "tconstruct:armor_maille"
+      "tconstruct:repair_kit"
     ],
     "transformer": {
       "type": "tconstruct:recolor_sprite",
@@ -25,27 +23,27 @@
             "grey": 0
           },
           {
-            "color": "FF000001",
+            "color": "FF24110B",
             "grey": 63
           },
           {
-            "color": "FF06030B",
+            "color": "FF411E15",
             "grey": 102
           },
           {
-            "color": "FF100C1C",
+            "color": "FF4A281D",
             "grey": 140
           },
           {
-            "color": "FF271E3D",
+            "color": "FF654740",
             "grey": 178
           },
           {
-            "color": "FF3B2754",
+            "color": "FF7E6059",
             "grey": 216
           },
           {
-            "color": "FF503572",
+            "color": "FF95867E",
             "grey": 255
           }
         ]
