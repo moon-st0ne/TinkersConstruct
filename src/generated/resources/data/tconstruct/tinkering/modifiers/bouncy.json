@@ -1,10 +1,10 @@
 {
-  "level_display": "tconstruct:single_level",
+  "level_display": "tconstruct:default",
   "modules": [
     {
       "type": "tconstruct:attribute",
-      "attribute": "tconstruct:generic.protection_cap",
-      "each_level": 0.1,
+      "attribute": "tconstruct:generic.bouncy",
+      "flat": 1.0,
       "operation": "addition",
       "slots": [
         "mainhand",
@@ -14,11 +14,7 @@
         "chest",
         "head"
       ],
-      "tool": {
-        "type": "mantle:tag",
-        "tag": "tconstruct:modifiable/armor"
-      },
-      "tooltip_style": "percent"
+      "tooltip_style": "none"
     }
   ],
   "tooltip_display": "always"
