@@ -6,22 +6,22 @@
       "item": "minecraft:egg"
     },
     "M": {
-      "item": "tconstruct:ender_slime_bucket"
+      "item": "tconstruct:ichor_bucket"
     },
     "S": {
-      "tag": "forge:dusts/redstone"
+      "tag": "forge:dusts/glowstone"
     },
     "W": {
-      "item": "tconstruct:ender_slime_tall_grass"
+      "item": "minecraft:warped_roots"
     }
   },
   "pattern": [
-    "MMM",
+    "WWW",
     "SES",
-    "WWW"
+    "MMM"
   ],
   "result": {
-    "item": "tconstruct:ender_cake"
+    "item": "tconstruct:ichor_cake"
   },
   "show_notification": true
 }
